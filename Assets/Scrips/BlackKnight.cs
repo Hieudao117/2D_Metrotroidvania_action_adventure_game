@@ -25,7 +25,9 @@ public class BlackKnight : MonoBehaviour
     [SerializeField] private Vector2 boxSize = new Vector2(1f, 0.5f);
     [SerializeField] private float damage1 = 50f;*/
     private Skeleton skeleton;
-
+    /// <summary>
+    /// git
+    /// </summary>
     [Header("Roll Settings")]
     [SerializeField] private float rollDistance = 5f; 
     [SerializeField] private float rollDuration = 0.5f; 
